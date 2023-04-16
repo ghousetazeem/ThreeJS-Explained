@@ -12,7 +12,7 @@ const scene = new THREE.Scene();
 // Creating the sphere
 // This is the just the structure(shape)
 // Creating geometry of the sphere
-const geometry = new THREE.SphereGeometry(3.4, 64, 64);
+const geometry = new THREE.SphereGeometry(2.6, 64, 64);
 
 // Creating material(Basically how it appears)
 const material = new THREE.MeshStandardMaterial({

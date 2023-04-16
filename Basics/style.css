@@ -36,14 +36,14 @@ nav a {
 nav ul {
   list-style: none;
   display: flex;
-  gap: 4rem;
+  gap: 1rem;
 }
 
 .title{
   color: white;
   z-index: 2;
   position: absolute;
-  font-size: 2rem;
+  font-size: 1.4rem;
   left: 50%;
   top: 86%;
   transform: translate(-50%, -75%);
